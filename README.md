@@ -1,8 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MishSoft/MishSoft/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MishSoft/MishSoft/main/light.svg">
-  <img alt="Misho's Cyber Profile Banner" src="https://raw.githubusercontent.com/MishSoft/MishSoft/main/dark.svg" width="100%">
-</picture>
+![Misho's Cyber Profile Banner](dark.svg#gh-dark-mode-only)
+![Misho's Cyber Profile Banner](light.svg#gh-light-mode-only)
 
 <!--
 **MishSoft/MishSoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
