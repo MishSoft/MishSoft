@@ -1,4 +1,8 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Misho's Cyber Profile Banner" src="dark.svg" width="100%">
+</picture>
 
 <!--
 **MishSoft/MishSoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
