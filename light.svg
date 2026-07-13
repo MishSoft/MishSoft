@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" fill="none">
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Fira+Code:wght@400;500;700&amp;display=swap');
-        .text-primary { font-family: 'Inter', sans-serif; fill: #0F172A; }
-        .text-muted { font-family: 'Inter', sans-serif; fill: #475569; }
-        .text-code { font-family: 'Fira Code', monospace; }
-        .ascii { font-family: 'Fira Code', monospace; font-size: 14px; font-weight: 700; white-space: pre; line-height: 1.2; }
+        
+        .text-primary { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #0F172A; }
+        .text-muted { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #475569; }
+        .text-code { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace; }
+        .ascii { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 14px; font-weight: 700; white-space: pre; line-height: 1.2; }
         .pill { cursor: pointer; transition: all 0.3s ease; fill: rgba(15,23,42,0.03); stroke: rgba(15,23,42,0.1); stroke-width: 1; }
-        .pill-text { font-family: 'Inter', sans-serif; font-size: 13px; font-weight: 500; fill: #475569; pointer-events: none; transition: all 0.3s ease; }
+        .pill-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500; fill: #475569; pointer-events: none; transition: all 0.3s ease; }
         .pill-group:hover .pill { fill: rgba(15,23,42,0.06); stroke: #06B6D4; filter: drop-shadow(0 0 8px rgba(6,182,212,0.3)); transform: scale(1.05); }
         .pill-group:hover .pill-text { fill: #0F172A; }
         .icon { fill: #475569; transition: all 0.3s ease; cursor: pointer; }
@@ -284,3 +284,4 @@
         </g>
     </g>
 </svg>
+

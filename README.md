@@ -1,8 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="GitHub Profile Banner" src="light.svg" width="100%">
-</picture>
+<div align="center">
+
+![GitHub Profile Banner](light.svg#gh-light-mode-only)
+![GitHub Profile Banner](dark.svg#gh-dark-mode-only)
+
+</div>
 
 <!--
 **MishSoft/MishSoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
