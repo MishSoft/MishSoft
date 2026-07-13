@@ -1,7 +1,7 @@
 <div align="center">
 
-![GitHub Profile Banner](light.svg#gh-light-mode-only)
-![GitHub Profile Banner](dark.svg#gh-dark-mode-only)
+![GitHub Profile Banner](light.svg?v=2#gh-light-mode-only)
+![GitHub Profile Banner](dark.svg?v=2#gh-dark-mode-only)
 
 </div>
 
